@@ -990,7 +990,7 @@ nav ul {
     .navlist {
         display: block;
         width: 0%;
-        height: 40%;
+        height: 100vh;
         background-color: #000;
         position: fixed;
         top: 0;
